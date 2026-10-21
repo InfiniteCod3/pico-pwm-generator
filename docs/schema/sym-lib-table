@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "generator")(type "KiCad")(uri "${KIPRJMOD}/generator.kicad_sym")(options "")(descr "Pico, OLED 128x32 a joystick KY-023"))
+)
